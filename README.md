@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 Opa! Eaí? Me chamo Higor! 👋😎<br>Sou um jovem de 21 anos buscando um futuro na área de tecnologia!<br>Sou um grande entusiasta quando o assunto é programação, adoro aprender coisas que de fato me interesso, e essa área com certeza é uma delas!<br>Descobri minha paixão pela área em minhas primeiras linhas de código, onde consegui resolver problemas de outras pessoas e automatizar algumas tarefas;<br><br>
 
