@@ -18,8 +18,6 @@ Opa! Eaí? Me chamo Higor! 👋😎<br>Sou um jovem de 22 anos buscando um futur
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HigorMatos&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HigorMatos&icon=2&color=1)](https://visitcount.itsvg.in)
